@@ -1,0 +1,44 @@
+/* Navbar.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for the navbar container */
+.nav {
+    height: 50px;
+    background-color: #000000; 
+    padding: 10px 20px; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    color: white; 
+}
+
+/* Style for the main heading */
+.nav h2 {
+    margin: 0; 
+    font-size: 24px; 
+}
+
+/* Style for the sub-navigation links container */
+.subnav {
+    display: flex; 
+    gap: 20px; 
+}
+
+/* Style for individual links */
+.subnav p {
+    margin: 0; 
+    cursor: pointer; 
+    transition: color 0.3s ease; 
+}
+
+/* Hover effect for the links */
+.subnav p:hover {
+    color: #f0f0f0; /* Lighter color on hover */
+}
+
+
+
+
