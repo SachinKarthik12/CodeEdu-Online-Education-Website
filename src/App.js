@@ -1,4 +1,5 @@
 import './App.css';
+import { useState } from 'react';
 import Navbar from './components/Navbar';
 
 function App() {
@@ -15,7 +16,6 @@ function App() {
     class universities and companies</p>
     </div>
   </div>
-
   </div>
   </>
   
