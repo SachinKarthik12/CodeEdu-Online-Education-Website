@@ -17,6 +17,8 @@ function App() {
 
     <h1>hi</h1>
 
+    <h2>n</h2>
+
     <h1>Maha</h1>
     </div>
   </div>
