@@ -12,7 +12,7 @@ function App() {
 
   <div className ="box">
     <div className="imgcontent">    
-    <p>Build skills with courses, certificates, and degrees online from world-
+    <p>Build skills with courses, certificates, and degrees online from world-<br/>
     class universities and companies</p>
     </div>
    
