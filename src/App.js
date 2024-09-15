@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import CardData from './components/CoursecardData';
 import SubscriptionBanner from './components/Subscription';
 import PromotionContent from './components/PromotionContent';
+import Footer from './components/Contact';
 function App() {
 
   return(
@@ -20,6 +21,7 @@ function App() {
   <CardData/>
   <SubscriptionBanner/>
   <PromotionContent/>
+  <Footer/>
   </div>
   </>
   
